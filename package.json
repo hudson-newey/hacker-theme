@@ -5,8 +5,8 @@
     "engines": {
         "vscode": "*"
     },
-    "displayName": "My Theme",
-    "description": "Old-school Hacker Theme for VSCode",
+    "displayName": "Hacker Theme",
+    "description": "Old-school hacker theme for VSCode",
     "categories": [
         "Themes"
     ],
@@ -19,7 +19,7 @@
             {
                 "label": "Hacker",
                 "uiTheme": "vs-dark",
-                "path": "./dist/my-theme.json"
+                "path": "./dist/hacker-theme.json"
             }
         ]
     },
@@ -28,12 +28,12 @@
         "color": "#0a0b0a",
         "theme": "dark"
     },
-    "homepage": "https://github.com/hudson-newey/my-theme/blob/master/README.md",
+    "homepage": "https://github.com/hudson-newey/hacker-theme/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/hudson-newey/my-theme/issues"
+        "url": "https://github.com/hudson-newey/hacker-theme/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/hudson-newey/my-theme"
+        "url": "https://github.com/hudson-newey/hacker-theme"
     }
 }
