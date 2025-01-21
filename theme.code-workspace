@@ -31,7 +31,8 @@
         "yzhang.markdown-all-in-one",
         "davidanson.vscode-markdownlint",
         "naumovs.color-highlight",
-        "zainchen.json"
+        "zainchen.json",
+        "grafana.vscode-jsonnet"
       ],
     },
   }
